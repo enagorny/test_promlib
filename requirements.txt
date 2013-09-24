@@ -12,3 +12,4 @@ ipdb==0.7
 ipython==1.0.0
 itsdangerous==0.23
 wsgiref==0.1.2
+names==0.3.0
